@@ -8,7 +8,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Video Demonstration</h2>
 
-- ### [How to Deploy on-premises Active Directory within Azure Compute ft Mr. Madakor](https://firebasestorage.googleapis.com/v0/b/coursecareers-prod.appspot.com/o/courses%2Fit-course%2FFINAL_DRAFT_Creating%20the%20Environment%20in%20Azure.mp4?alt=media&token=e103e35b-68bf-4ad6-bfb8-bba721b52d14)
+- ### [How to Deploy on-premises Active Directory in Azure ft Mr. Madakor](https://firebasestorage.googleapis.com/v0/b/coursecareers-prod.appspot.com/o/courses%2Fit-course%2FFINAL_DRAFT_Creating%20the%20Environment%20in%20Azure.mp4?alt=media&token=e103e35b-68bf-4ad6-bfb8-bba721b52d14)
 
 <h2>Environments and Technologies Used</h2>
 
